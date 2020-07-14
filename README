@@ -1,0 +1,13 @@
+# LibDev
+system Library and driver development repository
+
+# How to build
+1) please run ./mkconf.sh
+2) select platform x64 or aarch64
+
+#jemalloc build
+$ autoconf
+$ mkdir build
+$ cd build
+$ ../configure --with-jemalloc-prefix=je_
+$ make all tests && make check

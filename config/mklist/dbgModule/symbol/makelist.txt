@@ -1,0 +1,5 @@
+srcs  =
+srcs += symbol.c
+srcs += addr2line.c
+srcs += demangle.c
+srcs += dyn_sym.c

@@ -1,0 +1,4 @@
+srcs_cc	 =
+srcs_cc	+= snappy-sinksource.cc
+srcs_cc	+= snappy-stubs-internal.cc
+srcs_cc	+= snappy.cc

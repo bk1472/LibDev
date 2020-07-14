@@ -1,0 +1,7 @@
+srcs_cpp  =
+srcs_cpp += AServiceMessageSender.cpp
+srcs_cpp += AServiceUserMessageSender.cpp
+srcs_cpp += CServiceMessagePublisher.cpp
+srcs_cpp += CServiceUserMessageBuffer.cpp
+srcs_cpp += CTimerManager.cpp
+srcs_cpp += CTopicManager.cpp

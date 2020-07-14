@@ -1,0 +1,7 @@
+srcs_cpp  =
+srcs_cpp += CCommonTCPConnectImpl.cpp
+srcs_cpp += CCompTcpConnect.cpp
+srcs_cpp += CLocalQueuePort.cpp
+srcs_cpp += CMailboxPort.cpp
+srcs_cpp += CTcpConnect.cpp
+srcs_cpp += IPort.cpp

@@ -1,0 +1,3 @@
+srcs_cpp  =
+srcs_cpp += AService.cpp
+srcs_cpp += CBrokerService.cpp

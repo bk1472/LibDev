@@ -1,0 +1,8 @@
+srcs  =
+srcs += xlibc_output.c
+srcs += xlibc_termios.c
+srcs += xlibc_input.c
+srcs += xlibc_hooklib.c
+srcs += xlibc_util.c
+
+srcs_cpp += xlibc_cpp_out.cpp

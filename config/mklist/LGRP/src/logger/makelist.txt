@@ -1,0 +1,9 @@
+srcs_cpp  =
+srcs_cpp += CDebugBuffer.cpp
+srcs_cpp += CDebugCollector.cpp
+srcs_cpp += CDebugLogger.cpp
+srcs_cpp += CDebugMessageSender.cpp
+srcs_cpp += CDebugPlayer.cpp
+srcs_cpp += CLogAnMapper.cpp
+srcs_cpp += CTextLoggingHelper.cpp
+srcs_cpp += LogAnFile.cpp

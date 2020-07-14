@@ -1,0 +1,2 @@
+srcs_cpp  =
+srcs_cpp += CSingleProcessFullLogger.cpp

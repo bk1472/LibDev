@@ -1,0 +1,5 @@
+srcs_cpp  =
+srcs_cpp += ABasicApplication.cpp
+srcs_cpp += CLGRPLauncher.cpp
+srcs_cpp += CLGRPLauncher_MultiProc.cpp
+srcs_cpp += CPortmapBuilder.cpp

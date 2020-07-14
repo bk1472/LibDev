@@ -1,0 +1,8 @@
+srcs_cpp  =
+srcs_cpp += CDeviceDriverManager.cpp
+srcs_cpp += CMonitorFacade.cpp
+srcs_cpp += CParameterBuilder.cpp
+srcs_cpp += CParameterList.cpp
+srcs_cpp += CPortMap.cpp
+srcs_cpp += CServiceActivity.cpp
+srcs_cpp += CTags.cpp

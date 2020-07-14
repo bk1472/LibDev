@@ -1,0 +1,8 @@
+srcs  =
+srcs += Debug.c
+
+srcs_cpp  =
+srcs_cpp += CClassEntry.cpp
+srcs_cpp += ThreadAttr.cpp
+srcs_cpp += Timestamp.cpp
+
